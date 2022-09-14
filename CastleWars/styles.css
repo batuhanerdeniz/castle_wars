@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+#arka{
+    background-color: turquoise;
+    height: 75vh;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 3vw;
+    position: relative;
+}
+#kart_arka{
+    background-color: greenyellow;
+    height: 25vh;
+    font-size: 1.5vw;
+}
+#kale1{
+    margin-left: 12%;
+    float: left;
+    background-color: tomato;
+    height: 40vh;
+    width: 15vw;
+    position: absolute;
+    bottom: 0;
+}
+#kale2{
+    margin-left: 72%;
+    background-color: rgb(71, 172, 255);
+    height: 40vh;
+    width: 15vw;
+    position: absolute;
+    bottom: 0;
+}
